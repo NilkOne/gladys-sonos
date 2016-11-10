@@ -1,0 +1,14 @@
+{
+  "name": "gladys-sonos",
+  "version": "0.1.0",
+  "description": "Gladys hooks to control Sonos speakers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys"
+  ],
+  "author": "Pierre-Gilles Leymarie",
+  "license": "CC-BY-NC-SA-3.0"
+}
