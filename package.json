@@ -7,8 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "gladys"
+    "gladys",
+    "sonos",
+    "music"
   ],
   "author": "Pierre-Gilles Leymarie",
-  "license": "CC-BY-NC-SA-3.0"
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "sonos": "^0.12.1"
+  }
 }
