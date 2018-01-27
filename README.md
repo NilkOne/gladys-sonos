@@ -21,7 +21,7 @@ You can use this module in Gladys directly using the music API.
 
 To play music from the Radio, you can use this function: 
 
-```
+```javascript
 gladys.modules.sonos.music.playTuneinRadio({
     deviceType: {
         device: YOUR_SONOS_DEVICE_ID
