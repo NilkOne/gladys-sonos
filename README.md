@@ -32,6 +32,6 @@ gladys.modules.sonos.music.playTuneinRadio({
 ```
 
 You can replace stationId with the stationId you want to listen.
-To find the stationId, see help here => [https://help.tunein.com/customer/en/portal/articles/2232669-what-is-my-station-or-program-id-](https://help.tunein.com/customer/en/portal/articles/2232669-what-is-my-station-or-program-id-)
+To find the stationId, see help here => [https://help.tunein.com/what-is-my-station-or-program-id-SJbg90quwz](https://help.tunein.com/what-is-my-station-or-program-id-SJbg90quwz)
 
 The stationTitle is the name of the radio.
